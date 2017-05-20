@@ -16,7 +16,7 @@ Simple Trinagulation.
 
 Left: Input polygon, Center: Polygon broken into Y-monotone pieces, Right: Simple triangulation of Y-Monotone Pieces.
 
-![Simple triangulation] (https://github.com/Shikhar-S/Computational-Geometry/blob/master/Screenshots/send.jpeg)
+![Simple triangulation](https://github.com/Shikhar-S/Computational-Geometry/blob/master/Screenshots/send.jpeg)
 
 Algorithm used for making y montone pieces is based on Sweep line.
 

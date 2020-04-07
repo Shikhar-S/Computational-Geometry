@@ -1,7 +1,7 @@
 # Computational-Geometry
 API for constructing Convex Hull, Triangulation of polygons and Delaunay triangulation of point sets.
 
-Constrained Delaunay Trinagulation
+##Constrained Delaunay Trinagulation
 
 Left: Input Polygon, Center: Simple Triangulation, Right: Constrained Delaunay Triangulation
 
@@ -12,7 +12,7 @@ Left: Input Polygon, Center: Simple Triangulation, Right: Constrained Delaunay T
 The algorithm used for delaunay triangulation is Lawson's Edge flip algorithm.
 
 
-Simple Trinagulation.
+##Simple Trinagulation.
 
 Left: Input polygon, Center: Polygon broken into Y-monotone pieces, Right: Simple triangulation of Y-Monotone Pieces.
 
@@ -21,7 +21,7 @@ Left: Input polygon, Center: Polygon broken into Y-monotone pieces, Right: Simpl
 Algorithm used for making y montone pieces is based on Sweep line.
 
 
-Triangulation of Point Set.
+##Triangulation of Point Set.
 
 Left: Point Set, Center: Convex Hull and break up into left and right halfs, Right: Triangulation of both halves.
 
